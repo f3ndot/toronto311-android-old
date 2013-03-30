@@ -1,4 +1,4 @@
-package org.justinbull.toronto311;
+package com.f3ndot.toronto311;
 
 import java.util.Locale;
 
